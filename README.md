@@ -24,4 +24,13 @@ Each writeup will be organized as follows:
 - **Learn**: Understand the methodologies and tools used in solving various cybersecurity problems.
 - **Contribute**: Feel free to contribute by suggesting improvements or sharing your own solutions to the challenges.
 
+## CTF's I have have participated in
+
+| [CorCTF2024](https://github.com/pwninitd/CTF_Writeups/tree/main/corCTF2024_Writeups)                                                                                                            |
+|:--------------------------------------------------------------------------------------------------------------------------|
+| [Rock Paper Scissors](https://github.com/pwninitd/CTF_Writeups/tree/main/corCTF2024_Writeups/rock-paper-scissors_Writeup) |
+| [ERM](https://github.com/pwninitd/CTF_Writeups/tree/main/corCTF2024_Writeups/erm_Writeup)                                 |
+
+
+
 Thank you for visiting the **CTF_Writeups** repository. I hope you find the information here helpful and educational. Happy hacking!
