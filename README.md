@@ -26,7 +26,7 @@ Each writeup will be organized as follows:
 
 ## CTF's I have have participated in
 
-| [CorCTF2024](https://github.com/pwninitd/CTF_Writeups/tree/main/corCTF2024_Writeups)                                                                                                            |
+| [CorCTF2024](https://github.com/pwninitd/CTF_Writeups/tree/main/corCTF2024_Writeups/README.md)                                                                                                            |
 |:------------------------------------------------------------------------------------------------------------------------------------|
 | [Rock Paper Scissors](https://github.com/pwninitd/CTF_Writeups/tree/main/corCTF2024_Writeups/rock-paper-scissors_Writeup/README.md) |
 | [ERM](https://github.com/pwninitd/CTF_Writeups/tree/main/corCTF2024_Writeups/erm_Writeup/README.md)                                 |
